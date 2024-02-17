@@ -1,1 +1,1 @@
-# Data-Visualization-with-PowerBI
+# In this Project, the Data for the Bookings of Splendor Hotel Groups(SHG) was analysed and visualised to examine the Hotel's past booking record in order to identify trends, comprehend consumer behaviour and offer useful suggestions for tactical decision making through the use of PowerBI powerful resources.  
